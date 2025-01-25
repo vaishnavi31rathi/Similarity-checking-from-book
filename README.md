@@ -55,5 +55,4 @@ Special gratitude to:
  • The open-source community for inspiring ideas.
  • Collaborators for their valuable contributions.
 
-**Created with ❤️ by a dedicated programmer**
 **Submission by - IITGCS-24061296 (Vaishnavi Rathi)**
